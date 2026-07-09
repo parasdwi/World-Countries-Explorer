@@ -2,6 +2,7 @@
 
 A lightweight, dependency-free vanilla JavaScript application that displays a searchable, filterable grid of world countries with flags. Clicking any country card opens a modal popup with detailed information (capital, languages, population, area).
 
+https://parasdwi.github.io/World-Countries-Explorer/
 ---
 
 ## ✨ Features
